@@ -1,4 +1,5 @@
-/*! bb15_footswitch.ino - v1.0.0dev - 2019-12-17
+/* bb15_footswitch.ino - v1.0.0dev - 2019-12-17
+ *
  * https://github.com/jvkdev/bb15_footswitch
  *
  * This code is unfinished and for development purposes only
@@ -177,9 +178,7 @@ void loop() {
     // write to EEPROM
     EEPROM.put(eeprom_addr, btnSel);
     
-  } else {
-   
-  } 
+  } else {} 
      
 }
 
