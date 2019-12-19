@@ -11,6 +11,10 @@
  * For Arduino Micro  
  */
 
+/**
+ * @todo Dependency management
+ * @body Look for a way to manage Arduino dependencies (libraries) with a relevant package manager, perhaps using VCStudio instead of the Arduino IDE.
+ */
 #include <MIDI.h>
 //#include <Wire.h>
 #include <SoftwareSerial.h>
