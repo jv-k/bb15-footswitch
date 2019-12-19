@@ -7,3 +7,9 @@ The footswitches between the LOW/MID/HIGH modes on the modded amp.
 
 This code is released under the [gpl-3.0](https://choosealicense.com/licenses/gpl-3.0/) license, which means you can freely use it but must make available the complete source code with your modifications.
 
+# ToDo's
+– Add more images
+
+– Draw schematic
+
+– Add dependency management
